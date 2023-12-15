@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a737b25-942a-47d6-8b79-043329449286" name="Changes" comment="inital commit" />
+    <list default="true" id="6a737b25-942a-47d6-8b79-043329449286" name="Changes" comment="testing stuff" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,11 +43,45 @@
       <option name="project" value="LOCAL" />
       <updated>1702665203546</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added cool">
+      <created>1702665556246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702665556246</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added cool">
+      <created>1702665642337</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702665642337</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testing stuff">
+      <created>1702665728682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702665728682</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inital commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="inital commit" />
+    <MESSAGE value="added cool" />
+    <MESSAGE value="testing stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing stuff" />
   </component>
 </project>
