@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a737b25-942a-47d6-8b79-043329449286" name="Changes" comment="testing stuff" />
+    <list default="true" id="6a737b25-942a-47d6-8b79-043329449286" name="Changes" comment="main class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="0d46a99b-d40b-4f2a-9098-bf29de33ee19" />
   </component>
   <component name="ProjectId" id="2ZafNUTiqw7AhYXooURtfzZi5AU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -71,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702665728682</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="main class">
+      <created>1702665881476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702665881476</updated>
+    </task>
+    <task id="LOCAL-00006" summary="main class">
+      <created>1702666044376</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702666044376</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +106,7 @@
     <MESSAGE value="inital commit" />
     <MESSAGE value="added cool" />
     <MESSAGE value="testing stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing stuff" />
+    <MESSAGE value="main class" />
+    <option name="LAST_COMMIT_MESSAGE" value="main class" />
   </component>
 </project>
