@@ -7,4 +7,7 @@ public class Testing {
     public void partner1Method() {
         System.out.println("cool");
     }
+    public void partner2method() {
+        System.out.println("hi");
+    }
 }
